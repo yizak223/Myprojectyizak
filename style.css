@@ -1,3 +1,22 @@
 body{
     color: rgb(26, 199, 23);
 }
+a.github::after{
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    border: 2px solid#000;
+    border-radius: 5px;
+    margin: 3px;
+}
+footer{
+
+    all: unset;
+    position: absolute;
+    bottom: auto;
+    text-align: center;
+    background-color: #000;
+    width: 100%;
+}

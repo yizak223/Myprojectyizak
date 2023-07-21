@@ -1,6 +1,17 @@
 body{
     color: rgb(26, 199, 23);
 }
+header{
+
+}
+article{
+    
+}
+.h
+{
+    background-color: #000;
+    color: rgb(254, 254, 254);
+}
 a.github::after{
     position: absolute;
     top: -2px;

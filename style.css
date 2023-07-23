@@ -1,28 +1,43 @@
-body{
-    color: rgb(0, 0, 0);
-    background-color: #f6f1d7;
-        
-        background-image: url("https://www.interviewbit.com/blog/wp-content/uploads/2022/05/FULL-STACK-WEB-DEVELOPMENT-1024x950.png");
-        background-position: right bottom;
-        background-size: 49.5%;
-        background-repeat : no-repeat;
-       
-}
-  
-
-article{
+html{
+    background-color: #edcc85;
     
 }
+body{
+    color: rgb(0, 0, 0);
+    background-color: #b3b3b3;
+    border: 1px solid #0c4c76;
+    width: fit-content;
+    margin-left: 250px;
+    background-color: rgb(227, 230, 229);
+    border-radius: 25px;
+}
+h1{
+    border: 5px solid #0c4c76;
+    background-color: #0c4c76;
+    color: #ffffff;
+    width: fit-content;
+    border-radius: 25px;
+    text-align:center;
+     font-size: 25px;
+    width: 99%;
+   margin-top: 0%;
+}
+.content{
+    margin-left: 10px;
+}
+
 .h
 {
+    border: 5px solid #0c4c76;
     background-color: #0c4c76;
-    background-size: 50%;
-    width: 50.3%;
+    
+    width: 98.8%;
     margin: 0%;
     color: #ffffff;
 }
 p{
     margin: 0;
+    
 }
 a.github::after{
     position: absolute;
@@ -35,7 +50,7 @@ a.github::after{
     margin: 3px;
 }
 footer{
-    
+
     all: unset;
     position: absolute;
     bottom: auto;
@@ -47,3 +62,8 @@ footer{
     left: 0;
     right: 0;
 }
+
+/*    background-image: url("https://www.interviewbit.com/blog/wp-content/uploads/2022/05/FULL-STACK-WEB-DEVELOPMENT-1024x950.png");
+        background-position: right bottom;
+        background-size: 49.5%;
+        background-repeat : no-repeat; */

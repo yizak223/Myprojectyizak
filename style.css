@@ -11,25 +11,32 @@ body{
     margin-left: 400px;
     background-color: rgb(227, 230, 229);
     border-radius: 25px;
+    
+    
 }
 .beside{
+    color: #ffffff;
     border: 1px solid #0c4c76;
     float: left;
     display: block;
     position: sticky;
-    height: 923px;
+    height: 910px;
+    width: 160px;
     margin-right: 10px;
     background-color:#0c4c76 ;
     border: 5px solid #0c4c76;
-    border-radius: 25px;
+    border-top-left-radius: 22px;
+    border-bottom-left-radius: 22px;
+    border-right: 2px solid rgb(255, 255, 255);
+    
 }
 h1{
-    border: 5px solid #0c4c76;
-    background-color: #0c4c76;
-    color: #ffffff;
+    
+    
+    color: #000000;
     width: fit-content;
     border-radius: 25px;
-    text-align:center;
+    
      font-size: 25px;
     width: 99%;
    margin-top: 0%;
@@ -76,7 +83,7 @@ footer{
     right: 0;
 }
 li{
-    margin-left: 6pc;
+    margin-left: 10pc;
 }
 /*    background-image: url("https://www.interviewbit.com/blog/wp-content/uploads/2022/05/FULL-STACK-WEB-DEVELOPMENT-1024x950.png");
         background-position: right bottom;
